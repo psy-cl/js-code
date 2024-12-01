@@ -44,19 +44,19 @@ var myEvents = [];
   
      headerToolbar: {
            start: 'title', 
- 					 center: '',
-  				end: 'today prev,next' 
+ 	   center: '',
+  	   end: 'today prev,next' 
         },
         buttonText: {
             today: 'Today'
         },
        buttonIcons: {
-  				prev: 'chevron-left',
-  				next: 'chevron-right',
-				},
+  		prev: 'chevron-left',
+  		next: 'chevron-right',
+		},
        
         //height: 'auto',
-	contentHeight: 500,
+	contentHeight: 400,
         selectable: false,
         initialDate: date,
         events: myEvents
