@@ -56,7 +56,7 @@ var myEvents = [];
 		},
        
         //height: 'auto',
-	contentHeight: 400,
+	height: 500,
         selectable: false,
         initialDate: date,
         events: myEvents
