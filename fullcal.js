@@ -55,7 +55,7 @@ var myEvents = [];
   				next: 'chevron-right',
 				},
        
-        height: 'auto',
+        //height: 'auto',
 	contentHeight: 500,
         selectable: false,
         initialDate: date,
