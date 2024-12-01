@@ -16,9 +16,9 @@ var myEvents = [];
     var startEnd = $(this).find('.end-date').text().replace(/-/g, '-');
  
 		// logging results
-    console.log(eventTitle)
-    console.log(startDate)
-    console.log(startEnd)
+   // console.log(eventTitle)
+  //  console.log(startDate)
+ //   console.log(startEnd)
   
     // pushing results onto calender
     myEvents.push({
